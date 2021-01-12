@@ -1,0 +1,159 @@
+/* TAG ELEMENT */
+a {
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 4.625rem;
+  font-family: 'Caveat', cursive;
+  color:#11999E;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color:#11999E;
+}
+
+h3 {
+  color:#66BFBF;
+}
+
+hr {
+  border-top: 5px dotted lightgrey;
+  border-style: dotted none none none;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+/* CLASS ELEMENT */
+
+.ballet-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  padding: 50px;
+  background-color: #66BFBF
+}
+
+.btn {
+   -webkit-border-radius: 41px;
+   -moz-border-radius: 41px;
+   border-radius: 41px;
+   color: #FFFFFF;
+   font-family: 'Lato', sans-serif;
+   font-size: 14px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #1E62D0;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #D9E4DD;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #4DE384;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.contact-me {
+  padding: 50px;
+  line-height: 1.5;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.cooking-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px, 0;
+}
+
+.describe {
+  width: 50%;
+  text-align: center;
+  line-height: 1.5;
+  margin: auto;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.middle-container {
+
+}
+
+.mountain {
+  width: 25%;
+}
+
+.profile {
+  padding: 50px;
+}
+
+.skills {
+  padding: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 50px;
+  background-color: #d9e4dd;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+/* ID ELEMENT */
+#self-intro {
+  font-weight: normal;
+}
